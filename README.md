@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pilot1purple
-- 👀 I’m interested in Python and SQL
-- 💞️ I’m looking to collaborate on Webdesign 
+- 👀 I’m interested in Python and SQL, C#
+
 - 📫 How to reach me 
 
 <!---
