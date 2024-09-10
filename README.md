@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pilot1purple
-- 👀 I’m interested in frontend design.
-- 🌱 I’m currently learning Html, CSS and Java Script 
+- 👀 I’m interested in Python and SQL
 - 💞️ I’m looking to collaborate on Webdesign 
 - 📫 How to reach me 
 
