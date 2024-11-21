@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pilot1purple
-- 👀 I’m interested in Python and SQL, C#
+- 👀 I’m interested in JavaScript and Python
 
 - 📫 How to reach me 
 
